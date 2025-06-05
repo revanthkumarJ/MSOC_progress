@@ -57,7 +57,7 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 
 | Week   | Timeline           | Worked On                                                                 | Detailed Explanation     |
 |--------|--------------------|---------------------------------------------------------------------------|---------------------------|
-| Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform | [Week 0 Details](./weeks/week0.md) |
-| Week 1 | June 1 – June 7     | Started migrating Collection Sheet, Center, and Document modules, Raised draft PRs | [Week 1 Details](./weeks/week1.md) |
+| Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform | [Week 0 Details](./week0.md) |
+| Week 1 | June 1 – June 7     | Resolved Unauthentication error,Started migrating Collection Sheet, Center, and Document modules, Raised draft PRs | [Week 1 Details](./week1.md) |
 
 
