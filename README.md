@@ -24,7 +24,7 @@ Key aspects of this project include:
 
 By the end of this project, the Mifos Android Client will be a **modular, scalable, and cross-platform** solution, delivering a better experience for both developers and users.
 
-👉 _For more details, have a look at my comprehensive proposal submitted as a [GSoC Proposal to Mifos](https://docs.google.com/document/d/your-proposal-link)._ 
+👉 _For more details, have a look at my comprehensive proposal submitted as a [GSoC Proposal to Mifos](https://docs.google.com/document/d/170Gmg1VP6t5M-qsxPN7zR2GTIrRNEZrAM62UQBEYc7g/edit?usp=sharing)._ 
 
 ## 🚀 Pre-MSOC Journey
 
