@@ -54,10 +54,10 @@ This strong foundation has set me up to confidently take on the challenges of MS
 
 This section will document my weekly progress throughout the Mifos Summer of Code (MSOC) 2025 journey. Each row summarizes the work done during a specific week, and links to a dedicated README for more in-depth insights.
 
-| Week | Timeline         | Worked On                                       | Detailed Explanation |
-|------|------------------|--------------------------------------------------|-----------------------|
-| 0    | June 1 – June 7  | Project setup, planning, and initial KMP migration | [Week 1 Details](./weeks/week1.md) |
-| 1    | June 8 – June 14 | *(To be updated)*                                | *(To be added)*      |
-| …    | …                | …                                                | …                    |
+
+| Week   | Timeline           | Worked On                                                                 | Detailed Explanation     |
+|--------|--------------------|---------------------------------------------------------------------------|---------------------------|
+| Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform | [Week 0 Details](./weeks/week0.md) |
+| Week 1 | June 1 – June 7     | Started migrating Collection Sheet, Center, and Document modules, Raised draft PRs | [Week 1 Details](./weeks/week1.md) |
 
 
