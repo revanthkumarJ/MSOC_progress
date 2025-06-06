@@ -60,4 +60,20 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform | [Week 0 Details](./week0.md) |
 | Week 1 | June 1 – June 7     | Resolved Unauthentication error,Started migrating Collection Sheet, Center, and Document modules, Raised draft PRs | [Week 1 Details](./week1.md) |
 
+---
+
+## 📊 My Merged Pull Requests During MSOC
+
+| Title                            | JIRA Ticket                                  | Pull Request Link                                             |
+|---------------------------------|----------------------------------------------|--------------------------------------------------------------|
+| SetUp Application Modules        | [MIFOSAC-446](https://mifosforge.jira.com/browse/MIFOSAC-446) | [PR #2375](https://github.com/openMF/android-client/pull/2375) |
+| Home Drawer migrated to CMP      | [MIFOSAC-447](https://mifosforge.jira.com/browse/MIFOSAC-447)                  | [PR #2387](https://github.com/openMF/android-client/pull/2387) |
+| Activate module migrated to CMP  | [MIFOSAC-413](https://mifosforge.jira.com/browse/MIFOSAC-413) | [PR #2388](https://github.com/openMF/android-client/pull/2388) |
+| Resolve UnAuthorized error       | *No JIRA ticket created*                      | [PR #2397](https://github.com/openMF/android-client/pull/2397) |
+| Search migrated to CMP           | [MIFOSAC-428](https://mifosforge.jira.com/browse/MIFOSAC-428) | [PR #2399](https://github.com/openMF/android-client/pull/2399) |
+
+
+
+---
+
 
