@@ -17,3 +17,5 @@ This week was primarily focused on planning, collaboration, and early developmen
   - ✅ Helped review and finalize the PR for merging.
 - 🔐 Resolved **unauthenticated error** in the network layer.
   - ✅ [Merged PR](https://github.com/openMF/android-client/pull/2397)
+- 🔍 **Search Module** successfully migrated to `cmp` .  
+  - ✅ [Merged PR](https://github.com/openMF/android-client/pull/2399)
