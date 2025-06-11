@@ -72,8 +72,8 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | Resolve UnAuthorized error       | *No JIRA ticket created*                      | [PR #2397](https://github.com/openMF/android-client/pull/2397) |
 | Search module migrated to CMP           | [MIFOSAC-428](https://mifosforge.jira.com/browse/MIFOSAC-428) | [PR #2399](https://github.com/openMF/android-client/pull/2399) |
 | Center module migrated to CMP           | [MIFOSAC-415](https://mifosforge.jira.com/browse/MIFOSAC-415) | [PR #2391](https://github.com/openMF/android-client/pull/2391) |
-| Collection Sheet module migrated to CMP           | [MIFOSAC-418](https://mifosforge.jira.com/browse/MIFOSAC-415) | [PR #2396](https://github.com/openMF/android-client/pull/2396) |
-
+| Collection Sheet module migrated to CMP           | [MIFOSAC-418](https://mifosforge.jira.com/browse/MIFOSAC-418) | [PR #2396](https://github.com/openMF/android-client/pull/2396) |
+| Settings Module Enhancements (Theme Change and Clean Up)| [MIFOSAC-450](https://mifosforge.jira.com/browse/MIFOSAC-450) | [PR #2403](https://github.com/openMF/android-client/pull/2403) |
 
 ---
 
