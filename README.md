@@ -55,10 +55,12 @@ This strong foundation has set me up to confidently take on the challenges of MS
 This section will document my weekly progress throughout the Mifos Summer of Code (MSOC) 2025 journey. Each row summarizes the work done during a specific week, and links to a dedicated README for more in-depth insights.
 
 
-| Week   | Timeline           | Worked On                                                                 | Detailed Explanation     |
-|--------|--------------------|---------------------------------------------------------------------------|---------------------------|
-| Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform | [Week 0 Details](./week0.md) |
-| Week 1 | June 1 – June 7     | Resolved Unauthentication error,Started migrating Collection Sheet, Center, and Document modules, Raised draft PRs | [Week 1 Details](./week1.md) |
+| Week   | Timeline           | Worked On                                                                                                            | Detailed Explanation       |
+|--------|--------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform                                    | [Week 0 Details](./week0.md) |
+| Week 1 | June 1 – June 7    | Resolved unauthenticated error, started migrating Collection Sheet, Center, and Document modules (draft PRs); Search module migrated | [Week 1 Details](./week1.md) |
+| Week 2 | June 8 – June 14   | Migrated Center, Collection Sheet, and enhanced Settings module; reviewed 5+ module migration PRs                   | [Week 2 Details](./week2.md) |
+
 
 ---
 
