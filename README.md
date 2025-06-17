@@ -76,7 +76,7 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 7    | Center module migrated to CMP                    | [MIFOSAC-415](https://mifosforge.jira.com/browse/MIFOSAC-415)                       | [PR #2391](https://github.com/openMF/android-client/pull/2391)           | Week 2 |
 | 8    | Collection Sheet module migrated to CMP          | [MIFOSAC-418](https://mifosforge.jira.com/browse/MIFOSAC-418)                       | [PR #2396](https://github.com/openMF/android-client/pull/2396)           | Week 2 |
 | 9    | Settings Module Enhancements (Theme Change and Clean Up) | [MIFOSAC-450](https://mifosforge.jira.com/browse/MIFOSAC-450)              | [PR #2403](https://github.com/openMF/android-client/pull/2403)           | Week 2 |
-
+| 10    | Document Module Migration  | [MIFOSAC-420](https://mifosforge.jira.com/browse/MIFOSAC-420)              | [PR #2402](https://github.com/openMF/android-client/pull/2402)           | Week 2 |
 
 ---
 
