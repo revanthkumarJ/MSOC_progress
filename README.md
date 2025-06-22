@@ -67,21 +67,19 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 ---
 ## 📊 My Merged Pull Requests During MSOC
 
-| S.No | Title                                            | JIRA Ticket                                                                          | Pull Request Link                                                         | Week   |
-|------|--------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------|
-| 1    | SetUp Application Modules                        | [MIFOSAC-446](https://mifosforge.jira.com/browse/MIFOSAC-446)                       | [PR #2375](https://github.com/openMF/android-client/pull/2375)           | Week 0 |
-| 2    | Home Drawer migrated to CMP                      | [MIFOSAC-447](https://mifosforge.jira.com/browse/MIFOSAC-447)                       | [PR #2387](https://github.com/openMF/android-client/pull/2387)           | Week 0 |
-| 3    | Activate module migrated to CMP                  | [MIFOSAC-413](https://mifosforge.jira.com/browse/MIFOSAC-413)                       | [PR #2388](https://github.com/openMF/android-client/pull/2388)           | Week 0 |
-| 4    | Settings module migrated to CMP (Co-Authored)    | [MIFOSAC-429](https://mifosforge.jira.com/browse/MIFOSAC-429)                       | [PR #2390](https://github.com/openMF/android-client/pull/2390)           | Week 1 |
-| 5    | Resolve UnAuthorized error                       | *No JIRA ticket created*                                                            | [PR #2397](https://github.com/openMF/android-client/pull/2397)           | Week 1 |
-| 6    | Search module migrated to CMP                    | [MIFOSAC-428](https://mifosforge.jira.com/browse/MIFOSAC-428)                       | [PR #2399](https://github.com/openMF/android-client/pull/2399)           | Week 1 |
-| 7    | Center module migrated to CMP                    | [MIFOSAC-415](https://mifosforge.jira.com/browse/MIFOSAC-415)                       | [PR #2391](https://github.com/openMF/android-client/pull/2391)           | Week 2 |
-| 8    | Collection Sheet module migrated to CMP          | [MIFOSAC-418](https://mifosforge.jira.com/browse/MIFOSAC-418)                       | [PR #2396](https://github.com/openMF/android-client/pull/2396)           | Week 2 |
-| 9    | Settings Module Enhancements (Theme Change and Clean Up) | [MIFOSAC-450](https://mifosforge.jira.com/browse/MIFOSAC-450)              | [PR #2403](https://github.com/openMF/android-client/pull/2403)           | Week 2 |
-| 10    | Document Module Migration  | [MIFOSAC-420](https://mifosforge.jira.com/browse/MIFOSAC-420)              | [PR #2402](https://github.com/openMF/android-client/pull/2402)           | Week 3 |
-| 11    | Loan Module Migration (Co-Authored)  | [MIFOSAC-422](https://mifosforge.jira.com/browse/MIFOSAC-422)              | [PR #2404](https://github.com/openMF/android-client/pull/2404)           | Week 3 |
-| 12    | Report Module Migration (Co-Authored)  | [MIFOSAC-426](https://mifosforge.jira.com/browse/MIFOSAC-426)              | [PR #2392](https://github.com/openMF/android-client/pull/2392)           | Week 4 |
-
----
+| S.No | Week   | Title                                            | JIRA Ticket                                                                          | Pull Request Link                                                         |
+|------|--------|--------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| 1    | Week 0 | SetUp Application Modules                        | [MIFOSAC-446](https://mifosforge.jira.com/browse/MIFOSAC-446)                       | [PR #2375](https://github.com/openMF/android-client/pull/2375)           |
+| 2    |        | Home Drawer migrated to CMP                      | [MIFOSAC-447](https://mifosforge.jira.com/browse/MIFOSAC-447)                       | [PR #2387](https://github.com/openMF/android-client/pull/2387)           |
+| 3    |        | Activate module migrated to CMP                  | [MIFOSAC-413](https://mifosforge.jira.com/browse/MIFOSAC-413)                       | [PR #2388](https://github.com/openMF/android-client/pull/2388)           |
+| 4    | Week 1 | Settings module migrated to CMP (Co-Authored)    | [MIFOSAC-429](https://mifosforge.jira.com/browse/MIFOSAC-429)                       | [PR #2390](https://github.com/openMF/android-client/pull/2390)           |
+| 5    |        | Resolve UnAuthorized error                       | *No JIRA ticket created*                                                            | [PR #2397](https://github.com/openMF/android-client/pull/2397)           |
+| 6    |        | Search module migrated to CMP                    | [MIFOSAC-428](https://mifosforge.jira.com/browse/MIFOSAC-428)                       | [PR #2399](https://github.com/openMF/android-client/pull/2399)           |
+| 7    | Week 2 | Center module migrated to CMP                    | [MIFOSAC-415](https://mifosforge.jira.com/browse/MIFOSAC-415)                       | [PR #2391](https://github.com/openMF/android-client/pull/2391)           |
+| 8    |        | Collection Sheet module migrated to CMP          | [MIFOSAC-418](https://mifosforge.jira.com/browse/MIFOSAC-418)                       | [PR #2396](https://github.com/openMF/android-client/pull/2396)           |
+| 9    |        | Settings Module Enhancements (Theme Change and Clean Up) | [MIFOSAC-450](https://mifosforge.jira.com/browse/MIFOSAC-450)              | [PR #2403](https://github.com/openMF/android-client/pull/2403)           |
+| 10   | Week 3 | Document Module Migration                        | [MIFOSAC-420](https://mifosforge.jira.com/browse/MIFOSAC-420)                       | [PR #2402](https://github.com/openMF/android-client/pull/2402)           |
+| 11   |        | Loan Module Migration (Co-Authored)              | [MIFOSAC-422](https://mifosforge.jira.com/browse/MIFOSAC-422)                       | [PR #2404](https://github.com/openMF/android-client/pull/2404)           |
+| 12   | Week 4 | Report Module Migration (Co-Authored)            | [MIFOSAC-426](https://mifosforge.jira.com/browse/MIFOSAC-426)                       | [PR #2392](https://github.com/openMF/android-client/pull/2392)           |
 
 
