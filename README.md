@@ -60,7 +60,7 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform                                    | [Week 0 Details](./week0.md) |
 | Week 1 | June 1 – June 7    | Resolved unauthenticated error, started migrating Collection Sheet, Center, and Document modules (draft PRs); Search module migrated | [Week 1 Details](./week1.md) |
 | Week 2 | June 8 – June 14   | Migrated Center, Collection Sheet, and enhanced Settings module; reviewed 5+ module migration PRs                   | [Week 2 Details](./week2.md) |
-| Week 3 | June 15 – June 21   | Migrated Document Module Co-Authored Loan Module ; reviewed 2 PRs                   | [Week 3 Details](./week3.md) |
+| Week 3 | June 15 – June 21   | Migrated Document Module, Co-Authored Loan Module ; reviewed 2 PRs                   | [Week 3 Details](./week3.md) |
 | Week 4 | June 22 – June 28   |                   | [Week 4 Details](./week4.md) |
 
 
@@ -80,6 +80,7 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 9    | Settings Module Enhancements (Theme Change and Clean Up) | [MIFOSAC-450](https://mifosforge.jira.com/browse/MIFOSAC-450)              | [PR #2403](https://github.com/openMF/android-client/pull/2403)           | Week 2 |
 | 10    | Document Module Migration  | [MIFOSAC-420](https://mifosforge.jira.com/browse/MIFOSAC-420)              | [PR #2402](https://github.com/openMF/android-client/pull/2402)           | Week 3 |
 | 11    | Loan Module Migration (Co-Authored)  | [MIFOSAC-422](https://mifosforge.jira.com/browse/MIFOSAC-422)              | [PR #2404](https://github.com/openMF/android-client/pull/2404)           | Week 3 |
+| 12    | Report Module Migration (Co-Authored)  | [MIFOSAC-426](https://mifosforge.jira.com/browse/MIFOSAC-426)              | [PR #2392](https://github.com/openMF/android-client/pull/2392)           | Week 4 |
 
 ---
 
