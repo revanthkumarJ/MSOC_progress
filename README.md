@@ -81,5 +81,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 10   | Week 3 | Document Module Migration                        | [MIFOSAC-420](https://mifosforge.jira.com/browse/MIFOSAC-420)                       | [PR #2402](https://github.com/openMF/android-client/pull/2402)           |
 | 11   |        | Loan Module Migration (Co-Authored)              | [MIFOSAC-422](https://mifosforge.jira.com/browse/MIFOSAC-422)                       | [PR #2404](https://github.com/openMF/android-client/pull/2404)           |
 | 12   | Week 4 | Report Module Migration (Co-Authored)            | [MIFOSAC-426](https://mifosforge.jira.com/browse/MIFOSAC-426)                       | [PR #2392](https://github.com/openMF/android-client/pull/2392)           |
-
+| 13   |        | fix image rendering in client and payment screen (Co-Authored)            | [MIFOSAC-455](https://mifosforge.jira.com/browse/MIFOSAC-455)                       | [PR #2410](https://github.com/openMF/android-client/pull/2410)           |
 
