@@ -83,4 +83,6 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 12   | Week 4 | Report Module Migration (Co-Authored)            | [MIFOSAC-426](https://mifosforge.jira.com/browse/MIFOSAC-426)                       | [PR #2392](https://github.com/openMF/android-client/pull/2392)           |
 | 13   |        | fix : image rendering in client and payment screen (Co-Authored)            | [MIFOSAC-455](https://mifosforge.jira.com/browse/MIFOSAC-455)                       | [PR #2410](https://github.com/openMF/android-client/pull/2410)           |
 | 14   |        | fix : Loan Module clean up (Api , Viewmodel )            | [MIFOSAC-456](https://mifosforge.jira.com/browse/MIFOSAC-456)                       | [PR #2411](https://github.com/openMF/android-client/pull/2411)           |
+| 15   |        | fix : Group Module (api), added Navigations in Feature Nav Host            | [MIFOSAC-475](https://mifosforge.jira.com/browse/MIFOSAC-475)                       | [PR #2413](https://github.com/openMF/android-client/pull/2413)           |
+| 16   |        | fix : UpdateServerConfig (navigation,ui)            | [MIFOSAC-476](https://mifosforge.jira.com/browse/MIFOSAC-476)                       | [PR #2414](https://github.com/openMF/android-client/pull/2414)           |
 
