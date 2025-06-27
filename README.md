@@ -61,7 +61,7 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | Week 1 | June 1 – June 7    | Resolved unauthenticated error, started migrating Collection Sheet, Center, and Document modules (draft PRs); Search module migrated | [Week 1 Details](./week1.md) |
 | Week 2 | June 8 – June 14   | Migrated Center, Collection Sheet, and enhanced Settings module; reviewed 5+ module migration PRs                   | [Week 2 Details](./week2.md) |
 | Week 3 | June 15 – June 21   | Migrated Document Module, Co-Authored Loan Module ; reviewed 2 PRs                   | [Week 3 Details](./week3.md) |
-| Week 4 | June 22 – June 28   |                   | [Week 4 Details](./week4.md) |
+| Week 4 | June 22 – June 28   | Finalized Report Module Migration, Cleaned Up Loan & Group Modules, Reviewed 8+ PRs | [Week 4 Details](./week4.md) |
 
 
 ---
