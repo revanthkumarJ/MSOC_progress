@@ -87,4 +87,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 15   |        | fix : Group Module (api), added Navigations in Feature Nav Host            | [MIFOSAC-475](https://mifosforge.jira.com/browse/MIFOSAC-475)                       | [PR #2413](https://github.com/openMF/android-client/pull/2413)           |
 | 16   |        | fix : UpdateServerConfig (navigation,ui)            | [MIFOSAC-476](https://mifosforge.jira.com/browse/MIFOSAC-476)                       | [PR #2414](https://github.com/openMF/android-client/pull/2414)           |
 | 17   |        | fix : Replace Result With DataState in core:dataStore           | [MIFOSAC-477](https://mifosforge.jira.com/browse/MIFOSAC-477)                       | [PR #2416](https://github.com/openMF/android-client/pull/2416)           |
+| 18   |        | fix : Create Client           | [MIFOSAC-469](https://mifosforge.jira.com/browse/MIFOSAC-469)                       | [PR #2420](https://github.com/openMF/android-client/pull/2420)           |
 
