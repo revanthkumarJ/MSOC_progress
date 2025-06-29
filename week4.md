@@ -17,12 +17,12 @@ This week marked the completion of the Report Module migration. I collaborated c
     - [PR #2411](https://github.com/openMF/android-client/pull/2411)
   - 👥 Group Module API Cleanup & Navigation Fixes  
     - [PR #2413](https://github.com/openMF/android-client/pull/2413)
-
-- 📝 **Draft PRs Raised**
   - 🛠️ Update Server Config (UI & Navigation Fixes)  
     - [PR #2414](https://github.com/openMF/android-client/pull/2414)
   - 🔄 Replace `Result` with `DataState` in `core:dataStore`  
     - [PR #2416](https://github.com/openMF/android-client/pull/2416)
+  - fix : Create Client
+     - [PR #2420](https://github.com/openMF/android-client/pull/2420)
 
 ### 🔍 Code Reviews & Collaboration
 
@@ -36,3 +36,4 @@ Reviewed PRs by fellow contributors:
 - [#2846](https://github.com/openMF/mifos-mobile/pull/2846): Setup theme and typography  
 - [#2847](https://github.com/openMF/mifos-mobile/pull/2847): Refactor radio button component  
 - [#2849](https://github.com/openMF/mifos-mobile/pull/2849): Uploaded state component
+- [#1872](https://github.com/openMF/mobile-wallet/pull/1872): [MW-225] feat(auth): Implement full Sign In & Sign Up flow with validation
