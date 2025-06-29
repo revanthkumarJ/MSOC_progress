@@ -88,4 +88,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 16   |        | fix : UpdateServerConfig (navigation,ui)            | [MIFOSAC-476](https://mifosforge.jira.com/browse/MIFOSAC-476)                       | [PR #2414](https://github.com/openMF/android-client/pull/2414)           |
 | 17   |        | fix : Replace Result With DataState in core:dataStore           | [MIFOSAC-477](https://mifosforge.jira.com/browse/MIFOSAC-477)                       | [PR #2416](https://github.com/openMF/android-client/pull/2416)           |
 | 18   |        | fix : Create Client           | [MIFOSAC-469](https://mifosforge.jira.com/browse/MIFOSAC-469)                       | [PR #2420](https://github.com/openMF/android-client/pull/2420)           |
-
+| 19   | Week 5       | fix : Client Image (Edit , Delete Dialog)           | [MIFOSAC-480](https://mifosforge.jira.com/browse/MIFOSAC-480) <br> [MIFOSAC-483](https://mifosforge.jira.com/browse/MIFOSAC-483)                       | [PR #2421](https://github.com/openMF/android-client/pull/2421)           |
+| 20   |        | feat : Removed mifosng-android module           | [MIFOSAC-484](https://mifosforge.jira.com/browse/MIFOSAC-484)                       | [PR #2422](https://github.com/openMF/android-client/pull/2422)           |
