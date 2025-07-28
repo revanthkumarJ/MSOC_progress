@@ -100,4 +100,4 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 26   | Week 8      |feat : Transaction Screen item UI        |  [MM-284](https://mifosforge.jira.com/browse/MM-284)                       | [PR #2864](https://github.com/openMF/mifos-mobile/pull/2864)           |
 | 27   |       |fix: Customer Account Validation        |  No Jira Ticket Created                      | [PR #2866](https://github.com/openMF/mifos-mobile/pull/2866)           |
 | 28   |       |feat : Charges Screen UI       |  [MM-280](https://mifosforge.jira.com/browse/MM-280)                       | [PR #2863](https://github.com/openMF/mifos-mobile/pull/2863)           |
-| 29   |       |feat : Charges paid and unpaid views       |  [MM-287](https://mifosforge.jira.com/browse/MM-287)                       | [PR #2871](https://github.com/openMF/mifos-mobile/pull/2871)           |
+| 29   | Week 9 |feat : Charges paid and unpaid views       |  [MM-287](https://mifosforge.jira.com/browse/MM-287)                       | [PR #2871](https://github.com/openMF/mifos-mobile/pull/2871)           |
