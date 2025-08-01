@@ -104,3 +104,6 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 30   |        |feat: Payfrom DropDown Card UI             |  [MM-291](https://mifosforge.jira.com/browse/MM-291)                       | [PR #2873](https://github.com/openMF/mifos-mobile/pull/2873)           |
 | 31   |        |fix: changed username to email             |  No Jira Ticket Created                      | [PR #2876](https://github.com/openMF/mifos-mobile/pull/2876)           |
 | 32   |        |feat: Transaction screen UI             |  [MM-278](https://mifosforge.jira.com/browse/MM-278)                     | [PR #2874](https://github.com/openMF/mifos-mobile/pull/2874)           |
+| 33   |        |feat: Transaction screen Filter UI            |  [MM-288](https://mifosforge.jira.com/browse/MM-288)                     | [PR #2878](https://github.com/openMF/mifos-mobile/pull/2878)           |
+| 34   |        |updated progess bars and states             |  [MM-296](https://mifosforge.jira.com/browse/MM-296)                     | [PR #2881](https://github.com/openMF/mifos-mobile/pull/2881)           |
+| 35   |        |fix : Make Filter Checkbox Title Clickable Horizontally (Not Just Checkbox)             |  [MM-297](https://mifosforge.jira.com/browse/MM-297)                     | [PR #2882](https://github.com/openMF/mifos-mobile/pull/2882)           |
