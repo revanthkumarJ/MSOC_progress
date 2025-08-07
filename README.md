@@ -117,3 +117,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 43   |        |fix: Remove Withdraw option from saving account details             |  [MM-335](https://mifosforge.jira.com/browse/MM-335)                     | [PR #2907](https://github.com/openMF/mifos-mobile/pull/2907)           |
 | 44   |        |fix : Transaction Filter             |  [MM-334](https://mifosforge.jira.com/browse/MM-334)                     | [PR #2908](https://github.com/openMF/mifos-mobile/pull/2908)           |
 | 45   |        |feat : Beneficiary List filters            |  [MM-336](https://mifosforge.jira.com/browse/MM-336)                     | [PR #2909](https://github.com/openMF/mifos-mobile/pull/2909)           |
+| 46   |        |feat: navigation setup from settings screen and Help Screen UI            |  [MM-347](https://mifosforge.jira.com/browse/MM-347)                     | [PR #2911](https://github.com/openMF/mifos-mobile/pull/2911)           |
+| 47   |        |feat: About us New Ui           |  [MM-343](https://mifosforge.jira.com/browse/MM-343)                     | [PR #2912](https://github.com/openMF/mifos-mobile/pull/2912)           |
