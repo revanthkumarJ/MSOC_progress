@@ -119,3 +119,4 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 45   |        |feat : Beneficiary List filters            |  [MM-336](https://mifosforge.jira.com/browse/MM-336)                     | [PR #2909](https://github.com/openMF/mifos-mobile/pull/2909)           |
 | 46   |        |feat: navigation setup from settings screen and Help Screen UI            |  [MM-347](https://mifosforge.jira.com/browse/MM-347)                     | [PR #2911](https://github.com/openMF/mifos-mobile/pull/2911)           |
 | 47   |        |feat: About us New Ui           |  [MM-343](https://mifosforge.jira.com/browse/MM-343)                     | [PR #2912](https://github.com/openMF/mifos-mobile/pull/2912)           |
+| 48   |        |feat: App info New UI           |  [MM-344](https://mifosforge.jira.com/browse/MM-344)                     | [PR #2913](https://github.com/openMF/mifos-mobile/pull/2913)           |
