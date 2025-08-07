@@ -120,3 +120,4 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 46   |        |feat: navigation setup from settings screen and Help Screen UI            |  [MM-347](https://mifosforge.jira.com/browse/MM-347)                     | [PR #2911](https://github.com/openMF/mifos-mobile/pull/2911)           |
 | 47   |        |feat: About us New Ui           |  [MM-343](https://mifosforge.jira.com/browse/MM-343)                     | [PR #2912](https://github.com/openMF/mifos-mobile/pull/2912)           |
 | 48   |        |feat: App info New UI           |  [MM-344](https://mifosforge.jira.com/browse/MM-344)                     | [PR #2913](https://github.com/openMF/mifos-mobile/pull/2913)           |
+| 49   |        |feat: Authorization Passcode New UI           |  [MM-340](https://mifosforge.jira.com/browse/MM-340)                     | [PR #2915](https://github.com/openMF/mifos-mobile/pull/2915)          |
