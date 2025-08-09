@@ -122,3 +122,4 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 48   |        |feat: App info New UI           |  [MM-344](https://mifosforge.jira.com/browse/MM-344)                     | [PR #2913](https://github.com/openMF/mifos-mobile/pull/2913)           |
 | 49   |        |feat: Authorization Passcode New UI           |  [MM-340](https://mifosforge.jira.com/browse/MM-340)                     | [PR #2915](https://github.com/openMF/mifos-mobile/pull/2915)          |
 | 50   |        |feat : Password screen UI           |  [MM-339](https://mifosforge.jira.com/browse/MM-339)                     | [PR #2920](https://github.com/openMF/mifos-mobile/pull/2920)          |
+| 51   |        |fix : Home Screen Faq still navigating to old ui screen           |  [MM-353](https://mifosforge.jira.com/browse/MM-353)                     | [PR #2921](https://github.com/openMF/mifos-mobile/pull/2921)          |
