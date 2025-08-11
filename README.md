@@ -124,3 +124,4 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 50   |        |feat : Password screen UI           |  [MM-339](https://mifosforge.jira.com/browse/MM-339)                     | [PR #2920](https://github.com/openMF/mifos-mobile/pull/2920)          |
 | 51   |        |fix : Home Screen Faq still navigating to old ui screen           |  [MM-353](https://mifosforge.jira.com/browse/MM-353)                     | [PR #2921](https://github.com/openMF/mifos-mobile/pull/2921)          |
 | 52   | week 11       |feat: Comment settings unused options           |  [MM-338](https://mifosforge.jira.com/browse/MM-338)                     | [PR #2925](https://github.com/openMF/mifos-mobile/pull/2925)          |
+| 53   |        |feat: localisation strings for home module           |  [MM-361](https://mifosforge.jira.com/browse/MM-361)                     | [PR #2927](https://github.com/openMF/mifos-mobile/pull/2927)          |
