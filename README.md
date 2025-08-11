@@ -60,9 +60,15 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | Week 0 | May 25 – May 31    | Setup application modules for CMP, Migrated Home Drawer to Compose Multiplatform                                    | [Week 0 Details](./week0.md) |
 | Week 1 | June 1 – June 7    | Resolved unauthenticated error, started migrating Collection Sheet, Center, and Document modules (draft PRs); Search module migrated | [Week 1 Details](./week1.md) |
 | Week 2 | June 8 – June 14   | Migrated Center, Collection Sheet, and enhanced Settings module; reviewed 5+ module migration PRs                   | [Week 2 Details](./week2.md) |
-| Week 3 | June 15 – June 21   | Migrated Document Module, Co-Authored Loan Module ; reviewed 2 PRs                   | [Week 3 Details](./week3.md) |
-| Week 4 | June 22 – June 28   | Finalized Report Module Migration, Cleaned Up Loan & Group Modules, Reviewed 8+ PRs | [Week 4 Details](./week4.md) |
-| Week 5 | June 29 – July 5   | Addressed Client Image Fixes, Removed un needed Module, Refactored SignatureScreen, Reviewed 9+ PRs | [Week 5 Details](./week5.md) |
+| Week 3 | June 15 – June 21  | Migrated Document Module, Co-Authored Loan Module; reviewed 2 PRs                                                    | [Week 3 Details](./week3.md) |
+| Week 4 | June 22 – June 28  | Finalized Report Module Migration, Cleaned Up Loan & Group Modules, Reviewed 8+ PRs                                 | [Week 4 Details](./week4.md) |
+| Week 5 | June 29 – July 5   | Addressed Client Image Fixes, Removed unnecessary Module, Refactored SignatureScreen, Reviewed 9+ PRs                | [Week 5 Details](./week5.md) |
+| Week 6 | July 6 – July 12   | Enhanced Create Client to align with development branch, fixed Create Loan API, applied Survey Screens fixes         | [Week 6 Details](./week6.md) |
+| Week 7 | July 13 – July 19  | No major contributions done; no PR merged                                                                            | N/A                         |
+| Week 8 | July 20 – July 26  | Implemented Transaction Screen item UI, fixed Customer Account validation, developed Charges Screen UI               | [Week 8 Details](./week8.md) |
+| Week 9 | July 27 – Aug 2    | Added Charges paid/unpaid views, Payfrom Dropdown Card UI, username-to-email change, Transaction Screen & Filter UI, updated progress bars & states, QR code binding, API updates, Transaction empty UI fixes, loan account filter fixes, new Make Transfer UI | [Week 9 Details](./week9.md) |
+| Week 10| Aug 3 – Aug 9      | Added Beneficiary new UI, Beneficiary details screen, removed Withdraw option from savings account details, Transaction Filter fixes, Beneficiary list filters, navigation setup from settings, new Help, About Us, App Info, Authorization Passcode, and Password UIs, fixed FAQ navigation | [Week 10 Details](./week10.md) |
+| Week 11| Aug 10 – Aug 16    | Commented out unused settings options, added localization strings for Home module                                   | [Week 11 Details](./week11.md) |
 
 
 ---
