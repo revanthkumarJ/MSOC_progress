@@ -1,4 +1,4 @@
-<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/6c835f40-1286-4f86-93ac-06b1d1a2ac8e" /># Mifos Summer of Code (MSOC) 2025 - Progress Blog
+# Mifos Summer of Code (MSOC) 2025 - Progress Blog
 
 ## 🧑‍💻 Introduction
 
