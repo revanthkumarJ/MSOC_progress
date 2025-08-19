@@ -136,4 +136,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 55   |        |fix : enable previews in all modules           |  [MIFOSAC-511](https://mifosforge.jira.com/browse/MIFOSAC-511)                     | [PR #2454](https://github.com/openMF/android-client/pull/2454)          |
 | 56   |        |feat: Add DesignToken file to adapt new ui screens          |  [MIFOSAC-515](https://mifosforge.jira.com/browse/MIFOSAC-515)                     | [PR #2455](https://github.com/openMF/android-client/pull/2455)          |
 | 57   |        |feat : added listing components ui          |  [MIFOSAC-513](https://mifosforge.jira.com/browse/MIFOSAC-513)                     | [PR #2456](https://github.com/openMF/android-client/pull/2456)          |
+| 58   |        |feat : added new ui components         |  [MIFOSAC-516](https://mifosforge.jira.com/browse/MIFOSAC-516)                     | [PR #2457](https://github.com/openMF/android-client/pull/2457)          |
 
