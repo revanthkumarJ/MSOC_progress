@@ -139,4 +139,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 58   |        |feat : added new ui components         |  [MIFOSAC-516](https://mifosforge.jira.com/browse/MIFOSAC-516)                     | [PR #2457](https://github.com/openMF/android-client/pull/2457)          |
 | 59   |        |feat : Client List New U         |  [MIFOSAC-510](https://mifosforge.jira.com/browse/MIFOSAC-510)                     | [PR #2458](https://github.com/openMF/android-client/pull/2458)          |
 | 60   |        |feat : Client Profile UI          |  [MIFOSAC-519](https://mifosforge.jira.com/browse/MIFOSAC-519)                     | [PR #2462](https://github.com/openMF/android-client/pull/2462)          |
+| 61   |        |feat: Client Profile Details UI          |  [MIFOSAC-520](https://mifosforge.jira.com/browse/MIFOSAC-520)                     | [PR #2463](https://github.com/openMF/android-client/pull/2463)   |
 
