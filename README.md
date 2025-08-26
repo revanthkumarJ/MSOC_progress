@@ -144,4 +144,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 63   |     |feat: Assign and Unassign Staff UI          |  [MIFOSAC-565](https://mifosforge.jira.com/browse/MIFOSAC-565)                     | [PR #2465](https://github.com/openMF/android-client/pull/2465)   |
 | 64   |     |feat: Client Transfer New UI Screens          |  [MIFOSAC-564](https://mifosforge.jira.com/browse/MIFOSAC-564)                   | [PR #2466](https://github.com/openMF/android-client/pull/2466)   |
 | 65   |     |feat: Update Default Account New Screens          |  [MIFOSAC-568](https://mifosforge.jira.com/browse/MIFOSAC-568)               | [PR #2467](https://github.com/openMF/android-client/pull/2467)   |
-| 66   |     |feat : Client Closure New UI Screens          |  [MIFOSAC-563](https://mifosforge.jira.com/browse/MIFOSAC-563)                     | [PR #2468](https://github.com/openMF/android-client/pull/2468)   |
+| 66   |     |feat : Client Closure New UI Screens          |  [MIFOSAC-563](https://mifosforge.jira.com/browse/MIFOSAC-563)                   | [PR #2468](https://github.com/openMF/android-client/pull/2468)   |
+| 67   |     |feat: Client Collateral New UI Screens          |  [MIFOSAC-567](https://mifosforge.jira.com/browse/MIFOSAC-567)                 | [PR #2469](https://github.com/openMF/android-client/pull/2469)   |
