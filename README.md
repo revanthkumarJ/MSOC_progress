@@ -147,3 +147,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 66   |     |feat : Client Closure New UI Screens          |  [MIFOSAC-563](https://mifosforge.jira.com/browse/MIFOSAC-563)                   | [PR #2468](https://github.com/openMF/android-client/pull/2468)   |
 | 67   |     |feat: Client Collateral New UI Screens          |  [MIFOSAC-567](https://mifosforge.jira.com/browse/MIFOSAC-567)                 | [PR #2469](https://github.com/openMF/android-client/pull/2469)   |
 | 68   |     |feat : Stepper Component           |  [MIFOSAC-526](https://mifosforge.jira.com/browse/MIFOSAC-526)                 | [PR #2473](https://github.com/openMF/android-client/pull/2473)   |
+| 69   |     |fix: Firebase distribution           |  No Jira Ticket Created                 | [PR #2474](https://github.com/openMF/android-client/pull/2474)   |
+| 70   |     |fix: firebase distribution           |   No Jira Ticket Created                 | [PR #2478](https://github.com/openMF/android-client/pull/2478)   |
