@@ -150,3 +150,4 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 69   |     |fix: Firebase distribution           |  No Jira Ticket Created                 | [PR #2474](https://github.com/openMF/android-client/pull/2474)   |
 | 70   |     |fix: firebase distribution           |   No Jira Ticket Created                 | [PR #2478](https://github.com/openMF/android-client/pull/2478)   |
 | 71   | week 14     |feat: Migrate Navigation to Type Safe Navigation           |  [MIFOSAC-583](https://mifosforge.jira.com/browse/MIFOSAC-583)                 | [PR #2476](https://github.com/openMF/android-client/pull/2476)   |
+| 72   |     |feat: navigation bread crumbs           |  [MIFOSAC-580](https://mifosforge.jira.com/browse/MIFOSAC-580)                 | [PR #2487](https://github.com/openMF/android-client/pull/2487)   |
