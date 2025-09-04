@@ -152,3 +152,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 71   | week 14     |feat: Migrate Navigation to Type Safe Navigation           |  [MIFOSAC-583](https://mifosforge.jira.com/browse/MIFOSAC-583)                 | [PR #2476](https://github.com/openMF/android-client/pull/2476)   |
 | 72   |     |feat: navigation bread crumbs           |  [MIFOSAC-580](https://mifosforge.jira.com/browse/MIFOSAC-580)                 | [PR #2487](https://github.com/openMF/android-client/pull/2487)   |
 | 73   |     |feat:New Loan Account – Details Step Page           |  [MIFOSAC-528](https://mifosforge.jira.com/browse/MIFOSAC-528)                 | [PR #2491](https://github.com/openMF/android-client/pull/2491)   |
+| 74   |     |feat:New Loan Account – Loan terms Page           |  [MIFOSAC-529](https://mifosforge.jira.com/browse/MIFOSAC-529)                 | [PR #2494](https://github.com/openMF/android-client/pull/2494)   |
+| 75   |     |feat: Compose Preview Files            |  [MIFOSAC-591](https://mifosforge.jira.com/browse/MIFOSAC-591)                 | [PR #2496](https://github.com/openMF/android-client/pull/2496)   |
