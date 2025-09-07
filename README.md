@@ -155,3 +155,5 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 74   |     |feat:New Loan Account – Loan terms Page           |  [MIFOSAC-529](https://mifosforge.jira.com/browse/MIFOSAC-529)                 | [PR #2494](https://github.com/openMF/android-client/pull/2494)   |
 | 75   |     |feat: Compose Preview Files            |  [MIFOSAC-591](https://mifosforge.jira.com/browse/MIFOSAC-591)                 | [PR #2496](https://github.com/openMF/android-client/pull/2496)   |
 | 76   | Week 15    |feat : New Loan Account – Charges Step Implementation            |  [MIFOSAC-525](https://mifosforge.jira.com/browse/MIFOSAC-525)                 | [PR #2497](https://github.com/openMF/android-client/pull/2497)   |
+| 77   |  |fix : Updated Review Transfer bottomSheet            |  [MW-308](https://mifosforge.jira.com/browse/MW-308)                 | [PR #1923](https://github.com/openMF/mobile-wallet/pull/1923)   |
+
