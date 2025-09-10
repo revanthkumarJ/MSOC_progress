@@ -69,6 +69,9 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | Week 9 | July 27 – Aug 2    | Added Charges paid/unpaid views, Payfrom Dropdown Card UI, username-to-email change, Transaction Screen & Filter UI, updated progress bars & states, QR code binding, API updates, Transaction empty UI fixes, loan account filter fixes, new Make Transfer UI | [Week 9 Details](./week9.md) |
 | Week 10| Aug 3 – Aug 9      | Added Beneficiary new UI, Beneficiary details screen, removed Withdraw option from savings account details, Transaction Filter fixes, Beneficiary list filters, navigation setup from settings, new Help, About Us, App Info, Authorization Passcode, and Password UIs, fixed FAQ navigation | [Week 10 Details](./week10.md) |
 | Week 11| Aug 10 – Aug 16    | Commented out unused settings options, added localization strings for Home module                                   | [Week 11 Details](./week11.md) |
+| Week 12| Aug 17 – Aug 23    | Cleaned up unused dependencies, enabled previews in all modules, added DesignToken file for new UI screens, implemented listing & new UI components, developed Client List, Client Profile, and Client Profile Details UIs | [Week 12 Details](./week12.md) |
+| Week 13| Aug 24 – Aug 30    | Updated client photo flow, implemented Assign/Unassign Staff UI, Client Transfer, Update Default Account, Client Closure, and Client Collateral UIs, added Stepper component, fixed Firebase distribution issues | [Week 13 Details](./week13.md) |
+| Week 14| Aug 31 – Sep 6     | Migrated navigation to Type Safe Navigation, added navigation breadcrumbs, developed New Loan Account Details & Loan Terms pages, created Compose Preview files | [Week 14 Details](./week14.md) |
 
 
 ---
