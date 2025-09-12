@@ -82,7 +82,6 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 1    | Week 0 | SetUp Application Modules                        | [MIFOSAC-446](https://mifosforge.jira.com/browse/MIFOSAC-446)                       | [PR #2375](https://github.com/openMF/android-client/pull/2375)           |
 | 2    |        | Home Drawer migrated to CMP                      | [MIFOSAC-447](https://mifosforge.jira.com/browse/MIFOSAC-447)                       | [PR #2387](https://github.com/openMF/android-client/pull/2387)           |
 | 3    |        | Activate module migrated to CMP                  | [MIFOSAC-413](https://mifosforge.jira.com/browse/MIFOSAC-413)                       | [PR #2388](https://github.com/openMF/android-client/pull/2388)           |
-|     |  June 2025  | 1st Month of Msoc    |                        |           |
 | 4    | Week 1 | Settings module migrated to CMP (Co-Authored)    | [MIFOSAC-429](https://mifosforge.jira.com/browse/MIFOSAC-429)                       | [PR #2390](https://github.com/openMF/android-client/pull/2390)           |
 | 5    |        | Resolve UnAuthorized error                       | *No JIRA ticket created*                                                            | [PR #2397](https://github.com/openMF/android-client/pull/2397)           |
 | 6    |        | Search module migrated to CMP                    | [MIFOSAC-428](https://mifosforge.jira.com/browse/MIFOSAC-428)                       | [PR #2399](https://github.com/openMF/android-client/pull/2399)           |
@@ -100,7 +99,6 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 18   |        | fix : Create Client           | [MIFOSAC-469](https://mifosforge.jira.com/browse/MIFOSAC-469)                       | [PR #2420](https://github.com/openMF/android-client/pull/2420)           |
 | 19   | Week 5       | fix : Client Image (Edit , Delete Dialog)           | [MIFOSAC-480](https://mifosforge.jira.com/browse/MIFOSAC-480) <br> [MIFOSAC-483](https://mifosforge.jira.com/browse/MIFOSAC-483)                       | [PR #2421](https://github.com/openMF/android-client/pull/2421)           |
 | 20   |        | feat : Removed mifosng-android module           | [MIFOSAC-484](https://mifosforge.jira.com/browse/MIFOSAC-484)                       | [PR #2422](https://github.com/openMF/android-client/pull/2422)           |
-|    | July 2025       | Second Month of MSOC           |                      |           |
 | 21   |        | fix : SavingsAccount With Drawl and Saving Account Deposit screens not loading Serializable error           | [MIFOSAC-485](https://mifosforge.jira.com/browse/MIFOSAC-485)                       | [PR #2423](https://github.com/openMF/android-client/pull/2423)           |
 | 22   |        | feat: Refactor SignatureScreen to CommonMain using Compose-Signature Library           | [MIFOSAC-482](https://mifosforge.jira.com/browse/MIFOSAC-482)                       | [PR #2425](https://github.com/openMF/android-client/pull/2425)           |
 | 23   | Week 6       | fix : Enhance Create Client to Align with development Branch            | [MIFOSAC-486](https://mifosforge.jira.com/browse/MIFOSAC-486)                       | [PR #2426](https://github.com/openMF/android-client/pull/2426)           |
@@ -112,7 +110,6 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 29   | Week 9 |feat : Charges paid and unpaid views       |  [MM-287](https://mifosforge.jira.com/browse/MM-287)                       | [PR #2871](https://github.com/openMF/mifos-mobile/pull/2871)           |
 | 30   |        |feat: Payfrom DropDown Card UI             |  [MM-291](https://mifosforge.jira.com/browse/MM-291)                       | [PR #2873](https://github.com/openMF/mifos-mobile/pull/2873)           |
 | 31   |        |fix: changed username to email             |  No Jira Ticket Created                      | [PR #2876](https://github.com/openMF/mifos-mobile/pull/2876)           |
-|    | August 2025       | Third Month of MSOC           |                      |           |
 | 32   |        |feat: Transaction screen UI             |  [MM-278](https://mifosforge.jira.com/browse/MM-278)                     | [PR #2874](https://github.com/openMF/mifos-mobile/pull/2874)           |
 | 33   |        |feat: Transaction screen Filter UI            |  [MM-288](https://mifosforge.jira.com/browse/MM-288)                     | [PR #2878](https://github.com/openMF/mifos-mobile/pull/2878)           |
 | 34   |        |updated progess bars and states             |  [MM-296](https://mifosforge.jira.com/browse/MM-296)                     | [PR #2881](https://github.com/openMF/mifos-mobile/pull/2881)           |
@@ -184,7 +181,6 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 12    |Readme Updated | No Jira Ticket Created                        | [PR #1818](https://github.com/openMF/mobile-wallet/pull/1818)           |
 | 13    |Readme Updated | No Jira Ticket Created                        | [PR #1819](https://github.com/openMF/mobile-wallet/pull/1818)           |
 | 14    |Update Zoom Link with Current Standup Link | No Jira Ticket Created                        | [PR #1854](https://github.com/openMF/mobile-wallet/pull/1854)           |
-
 | 15    |feat: Migrate :core:ui to KMP | [MIFOSAC-401](https://mifosforge.jira.com/browse/MIFOSAC-401)                          | [PR #2327](https://github.com/openMF/android-client/pull/2327)           |
 | 16    |fix : changed some Files to make app run | [MIFOSAC-434](https://mifosforge.jira.com/browse/MIFOSAC-434)                          | [PR #2345](https://github.com/openMF/android-client/pull/2345)       |
 | 17    |refactor (core:network ) Network converted to KMP | [MIFOSAC-402](https://mifosforge.jira.com/browse/MIFOSAC-402)                          | [PR #2346](https://github.com/openMF/android-client/pull/2346)       |
