@@ -163,3 +163,31 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 79   |  |fix : Specific Transaction History Screen            |  No Jira Ticket Created                 | [PR #1930](https://github.com/openMF/mobile-wallet/pull/1930)   |
 | 80   |  |fix: Send Money Flow Fixes            |  [MW-318](https://mifosforge.jira.com/browse/MW-318)                 | [PR #1933](https://github.com/openMF/mobile-wallet/pull/1933)   |
 | 81   |  |feat: Add History Screen filter Bottom Sheet            |  [MW-319](https://mifosforge.jira.com/browse/MW-319)                 | [PR #1935](https://github.com/openMF/mobile-wallet/pull/1935)   |
+
+
+---
+## 📊 My Merged Pull Requests Before MSOC
+
+| S.No | Title                                            | JIRA Ticket                                                                          | Pull Request Link                                                         |
+|------|--------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| 1    | Update Status Bar to Match Theme Colors Dynamically | No Jira Ticket Created                       | [PR #2722](https://github.com/openMF/mifos-mobile/pull/2722)           |
+| 2    |feat: Migrated :core:datastore module to KMP | [MM-108](https://mifosforge.jira.com/browse/MM-108)                        | [PR #2737](https://github.com/openMF/mifos-mobile/pull/2737)           |
+| 3    |Feat: [:core:ui] - Migrated to KMP | [MM-113](https://mifosforge.jira.com/browse/MM-113)                        | [PR #2749](https://github.com/openMF/mifos-mobile/pull/2749)           |
+| 4    |Feat: [:libs:passcode] - Migrated to KMP | [MM-122](https://mifosforge.jira.com/browse/MM-122)                        | [PR #2753](https://github.com/openMF/mifos-mobile/pull/2753)           |
+| 5    |feat( feature:help) migrate to cmp | [MM-187](https://mifosforge.jira.com/browse/MM-187)                        | [PR #2780](https://github.com/openMF/mifos-mobile/pull/2780)           |
+| 6    |feature/Savings converted to CMP | No Jira Ticket Created                        | [PR #2804](https://github.com/openMF/mifos-mobile/pull/2804)           |
+| 7    |feat: Migrated :feature:settings module to CMP | No Jira Ticket Created                       | [PR #2806](https://github.com/openMF/mifos-mobile/pull/2806)           |
+| 8    |Updated zoom link | No Jira Ticket Created                       | [PR #2813](https://github.com/openMF/mifos-mobile/pull/2813)           |
+| 9    |feat (feature:location) Migrated to CMP | [MM-218](https://mifosforge.jira.com/browse/MM-218)                        | [PR #2820](https://github.com/openMF/mifos-mobile/pull/2820)           |
+| 10    |Added Scaffold to AboutUs Page | [MM-230](https://mifosforge.jira.com/browse/MM-230)                        | [PR #2825](https://github.com/openMF/mifos-mobile/pull/2825)           |
+| 11    |fix : Top Bar Titles updation | [MM-231](https://mifosforge.jira.com/browse/MM-231)                        | [PR #2827](https://github.com/openMF/mifos-mobile/pull/2827)           |
+| 12    |Readme Updated | No Jira Ticket Created                        | [PR #1818](https://github.com/openMF/mobile-wallet/pull/1818)           |
+| 13    |Readme Updated | No Jira Ticket Created                        | [PR #1819](https://github.com/openMF/mobile-wallet/pull/1818)           |
+| 14    |Update Zoom Link with Current Standup Link | No Jira Ticket Created                        | [PR #1854](https://github.com/openMF/mobile-wallet/pull/1854)           |
+
+| 15    |feat: Migrate :core:ui to KMP | [MIFOSAC-401](https://mifosforge.jira.com/browse/MIFOSAC-401)                          | [PR #2327](https://github.com/openMF/android-client/pull/2327)           |
+| 16    |fix : changed some Files to make app run | [MIFOSAC-434](https://mifosforge.jira.com/browse/MIFOSAC-434)                          | [PR #2345](https://github.com/openMF/android-client/pull/2345)       |
+| 17    |refactor (core:network ) Network converted to KMP | [MIFOSAC-402](https://mifosforge.jira.com/browse/MIFOSAC-402)                          | [PR #2346](https://github.com/openMF/android-client/pull/2346)       |
+| 18    |feat : Implementing intent platform Specific and added other Share Utils | [MIFOSAC-436](https://mifosforge.jira.com/browse/MIFOSAC-436)| [PR #2347](https://github.com/openMF/android-client/pull/2347) |
+| 19    |feat (core:dataStore) Migrated to KMP | [MIFOSAC-330](https://mifosforge.jira.com/browse/MIFOSAC-330)| [PR #2352](https://github.com/openMF/android-client/pull/2352) |
+
