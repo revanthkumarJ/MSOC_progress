@@ -161,3 +161,4 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 77   |  |fix : Updated Review Transfer bottomSheet            |  [MW-308](https://mifosforge.jira.com/browse/MW-308)                 | [PR #1923](https://github.com/openMF/mobile-wallet/pull/1923)   |
 | 78   |        |feat : send money flow change            |  [MW-313](https://mifosforge.jira.com/browse/MW-313)<br>[MW-314](https://mifosforge.jira.com/browse/MW-314) <br>  [MW-315](https://mifosforge.jira.com/browse/MW-315)                  | [PR #1926](https://github.com/openMF/mobile-wallet/pull/1926)           |
 | 79   |  |fix : Specific Transaction History Screen            |  No Jira Ticket Created                 | [PR #1930](https://github.com/openMF/mobile-wallet/pull/1930)   |
+| 80   |  |fix: Send Money Flow Fixes            |  [MW-318](https://mifosforge.jira.com/browse/MW-318)                 | [PR #1933](https://github.com/openMF/mobile-wallet/pull/19233)   |
