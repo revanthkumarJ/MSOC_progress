@@ -160,6 +160,8 @@ This section will document my weekly progress throughout the Mifos Summer of Cod
 | 79   |  |fix : Specific Transaction History Screen            |  No Jira Ticket Created                 | [PR #1930](https://github.com/openMF/mobile-wallet/pull/1930)   |
 | 80   |  |fix: Send Money Flow Fixes            |  [MW-318](https://mifosforge.jira.com/browse/MW-318)                 | [PR #1933](https://github.com/openMF/mobile-wallet/pull/1933)   |
 | 81   |  |feat: Add History Screen filter Bottom Sheet            |  [MW-319](https://mifosforge.jira.com/browse/MW-319)                 | [PR #1935](https://github.com/openMF/mobile-wallet/pull/1935)   |
+| 82   |  |feat: Home Transactions Filter            |  [MW-321](https://mifosforge.jira.com/browse/MW-321)                 | [PR #1936](https://github.com/openMF/mobile-wallet/pull/1936)   |
+| 83   |  |fix: Handle No Accounts in Home and Serializable Error in Transactions            |  No Jira Ticket Created                | [PR #1938](https://github.com/openMF/mobile-wallet/pull/1938)   |
 
 
 ---
