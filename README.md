@@ -14,16 +14,6 @@ The goal of this project is to **migrate the existing Mifos Android Field Office
 
 This migration aims to make the app run seamlessly across **Android, iOS, Desktop, and Web**, reducing code duplication and improving the developer experience.
 
-Key aspects of this project include:
-
-- 🔁 Replacing the existing RxJava-based network layer with **`fineract-client-kmp-sdk`** using **Kotlin coroutines** and **Flow**.
-- 📲 Introducing **dynamic navigation graphs** based on user roles to support **multiple user types**, not just Field Officers.
-- 📡 Implementing **offline sync functionality** for uninterrupted access.
-- ✅ Increasing **testing coverage** with unit and integration tests.
-- 🚀 Enhancing **CI/CD automation** using GitHub Actions and Fastlane for streamlined Play Store releases.
-
-By the end of this project, the Mifos Android Client will be a **modular, scalable, and cross-platform** solution, delivering a better experience for both developers and users.
-
 👉 _For more details, have a look at my comprehensive proposal submitted as a [GSoC Proposal to Mifos](https://docs.google.com/document/d/1FNdjwGb5TuSHlhU9c36e7Gx1ERgx3xaPfkTysbKuhw8/edit?usp=sharing)._ 
 
 ## 🚀 Pre-MSOC Journey
